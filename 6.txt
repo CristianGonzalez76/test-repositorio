@@ -1,0 +1,7 @@
+La palabra introducida es: telecomunicaciones
+La palabra tiene: 
+A= 1
+E= 3
+I= 2
+O= 2
+U= 1

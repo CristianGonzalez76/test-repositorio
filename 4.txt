@@ -1,0 +1,4 @@
+El primer valor es: 45
+El segundo valor es: 63
+Resultado: 
+63 62 61 60 59 58 57 56 55 54 53 52 51 50 49 48 47 46 45 

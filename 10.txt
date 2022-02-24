@@ -1,0 +1,2 @@
+Los lados del triangulo son:  A=5 B=5 C=5
+El triangulo es: Equilatero

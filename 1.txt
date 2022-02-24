@@ -1,0 +1,4 @@
+Primer valor: 4
+Segundo Valor: 5
+Tercer Valor: 6
+El numero concatenado es: 456

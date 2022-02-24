@@ -1,0 +1,5 @@
+Primer Nota: 65
+Segunda Nota: 54
+Tercer Nota: 70
+Aprobado
+El promedio es igual a: 63.0

@@ -1,0 +1,2 @@
+El numero introducido es: 6
+El resultado de la suma es: 21

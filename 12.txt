@@ -1,0 +1,2 @@
+El valor ingresado es:  27
+Error: El numero introducino es divisible entre 7

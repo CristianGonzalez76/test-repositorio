@@ -1,0 +1,2 @@
+Figura seleccionada: Rectangulo
+El resultado es: 10

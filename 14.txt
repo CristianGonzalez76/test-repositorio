@@ -1,0 +1,3 @@
+El vehiculo es modelo 2019
+tiene recorridos 3056KM
+El vehiculo esta en optimas condiciones
